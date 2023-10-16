@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1dyuPlUNCkYyZLW1PeBH9n_ATjgyOjOcK
 """
 
-pip install streamlit openai llama-index nltk
+#pip install streamlit openai llama-index nltk
 
 import streamlit as st
 from llama_index import VectorStoreIndex, ServiceContext, Document
